@@ -27,6 +27,6 @@ Le Wagon organize an event dedicated for Woman in Tech:
   - scatter plot
   - jointplot
   - seaborn.pairplot
-* check regregation with lmplot 
-
+* check regregation with lmplot <br><br>
+https://github.com/midlourenco/Lewagon_Woman_day/blob/main/%20Data%20Analytics/DataAnalitic_challenge_LewagonWday_MarianaLourenco.ipynb
 
