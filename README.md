@@ -1,3 +1,4 @@
+<img src="lewagonlogo.png">
 # LeWagon_Woman_day
 
 Le Wagon organize an event dedicated for Woman in Tech:
