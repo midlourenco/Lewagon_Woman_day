@@ -38,3 +38,9 @@ https://github.com/midlourenco/Lewagon_Woman_day/blob/main/%20Data%20Analytics/D
 * from: https://github.com/lewagon/python-scraping-workshop
 <br><br>
 https://github.com/midlourenco/Lewagon_Woman_day/blob/main/Web%20Scraping/web_scrapping_challenges_MarianaLourenco.ipynb
+
+
+
+<img src="lewagon-logo-2.png">
+## Landing page:
+
