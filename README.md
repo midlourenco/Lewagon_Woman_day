@@ -42,6 +42,7 @@ https://github.com/midlourenco/Lewagon_Woman_day/blob/main/Web%20Scraping/web_sc
 
 
 <img src="lewagon-logo-2.png">
+
 ## Landing page:
 * used HTML and CSS basics (including class selectors and box model)
 * CSS grid
